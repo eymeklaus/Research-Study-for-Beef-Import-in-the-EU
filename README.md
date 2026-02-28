@@ -5,7 +5,7 @@ We are a big processing meat company in south America and we are expanding our f
 
 This research aims to support strategic decision-making by analyzing key market indicators, including beef prices, per capita consumption, and total consumer expenditure across European countries. By examining these factors, the study seeks to better understand consumer behavior and market dynamics within the European Union. The ultimate objective is to identify the most attractive and economically viable country for market penetration, thereby maximizing the potential for profitability and sustainable business expansion.
 
----
+
 ## **Problem Statement**
 
 ### 1.**Price Competitiveness Problem**  
@@ -17,7 +17,7 @@ Assess which country demonstrates the highest demand for beef, as measured by pe
 ### 3.**Market Entry Problem**  
 Determine which country offers the most favorable market conditions for entering and expanding a new beef business, based on price levels, consumption patterns, and expenditure trends.
 
----
+
 
 ## **Data Collection & Preparation**
 
@@ -27,7 +27,7 @@ In order to compare the price and consumption from each country, the total expen
 
 Following the data collection, we proceeded with the application of different cleaning and standardization techniques. First, we conducted a descriptive analysis. Secondly, we continued with cleaning columns, handling null values, formatting columns, grouping, filtering, merging, applying functions, and creating crosstab and pivot tables in order to conduct the exploratory data analysis (EDA).
 
----
+
 ## **Analysis**
 
 Following the data collection, cleaning, and preparation stages, the analysis was conducted in accordance with the defined problem statements and research objectives. The purpose of this phase was to identify the most attractive European market for beef export by evaluating price levels, consumption patterns, and total consumer expenditure.
@@ -46,14 +46,14 @@ The fourth graph analyzed total expenditure on beef, which reflects the overall 
 
 By comparing price competitiveness, consumption demand, and total expenditure, the analysis enabled the identification of the most promising country for successful market entry and business expansion within the European Union.
 
----
+
 ## **Tools Used**
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 - GitHub
----
+
 ## **Presentation**
 You can find the presentation in the following link: 
 
