@@ -56,6 +56,7 @@ By comparing price competitiveness, consumption demand, and total expenditure, t
 
 ## **Presentation**
 You can find the presentation in the following link: 
+https://docs.google.com/presentation/d/1v04zG-fODh-sW-0wWMacvtHPS2eseRsD/edit?slide=id.p1#slide=id.p1
 
 ## **References**
 - Agri Food Markets, European Commission  
